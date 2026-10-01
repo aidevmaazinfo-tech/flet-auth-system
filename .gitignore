@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+mainvenv/
+
+# Flet build
+build/
+dist/
+*.spec
+*.pkg
+*.exe
+*.apk
+*.ipa
+
+# Database
+*.sqlite3
+*.db
+*.sql
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.rar
+*.zip
